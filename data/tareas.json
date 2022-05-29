@@ -1,0 +1,42 @@
+[
+    {
+        "titulo": "Abono del celular",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Cuota del televisor",
+        "estado": "en proceso"
+    },
+    {
+        "titulo": "Alquiler",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Seguro",
+        "estado": "pendiente",
+        "precio": 3500,
+        "plazoExtra": "1mes ",
+        "cantidadCuotas": 6
+    },
+    {
+        "titulo": "Impuestos",
+        "estado": "terminada",
+        "precio": 10000,
+        "plazoExtra": "1mes",
+        "cantidadCuotas": 5
+    },
+    {
+        "titulo": "Cursada",
+        "estado": "pendiente",
+        "precio": 3000,
+        "plazoExtra": "1semana",
+        "cantidadCuotas": 12
+    },
+    {
+        "titulo": "cargador de pc",
+        "estado": "terminada",
+        "precio": 1500,
+        "plazoExtra": "0",
+        "cantidadCuotas": 0
+    }
+]
