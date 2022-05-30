@@ -37,3 +37,7 @@ switch (accion) {
         console.log("No se encuentra la operacion solicitada");
         break;
 }
+
+console.log (argv)
+
+
